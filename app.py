@@ -283,9 +283,8 @@ def chatbot():
             'response': "I'm having trouble responding right now. Please try again later."
         })
 
-# if __name__ == '__main__':
-#     port = int(os.environ.get('PORT', 5000))  # Fallback for local dev
-#     app.run(host='0.0.0.0', port=port)
+
 if __name__ == "__main__":
     os.makedirs('uploadimages', exist_ok=True)
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))  # Default to 5000 if PORT not set
+    app.run(host="0.0.0.0", port=port)
