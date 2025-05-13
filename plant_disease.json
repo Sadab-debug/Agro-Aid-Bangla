@@ -1,0 +1,197 @@
+[
+    {
+        "name": "Apple___Apple_scab",
+        "cause": "ছত্রাক Venturia inaequalis দ্বারা সৃষ্ট। অনুকূল পরিবেশ হল ঠান্ডা ও স্যাঁতসেঁতে আবহাওয়া।",
+        "cure": "ছত্রাকনাশক ব্যবহার করুন এবং রোগ প্রতিরোধী আপেল জাত নির্বাচন করুন। আক্রান্ত পাতাগুলি ছেঁটে ফেলে দিন।"
+    },
+    {
+        "name": "Apple___Black_rot",
+        "cause": "ছত্রাক Botryosphaeria obtusa দ্বারা সৃষ্ট।",
+        "cure": "আক্রান্ত অংশ ছেঁটে ফেলে দিন। বাড়ন্ত মৌসুমে ছত্রাকনাশক প্রয়োগ করুন।"
+    },
+    {
+        "name": "Apple___Cedar_apple_rust",
+        "cause": "ছত্রাক Gymnosporangium juniperi-virginianae দ্বারা সৃষ্ট। এটি জনিপার গাছকে বিকল্প আশ্রয় হিসেবে প্রয়োজন।",
+        "cure": "পার্শ্ববর্তী জনিপার গাছ সরিয়ে ফেলুন। প্রতিরোধী জাত এবং ছত্রাকনাশক ব্যবহার করুন।"
+    },
+    {
+        "name": "Apple___healthy",
+        "cause": "কোনো রোগ নেই।",
+        "cure": "গাছের স্বাস্থ্য ভালো রাখতে ভালো চাষাবাদের পদ্ধতি অনুসরণ করুন।"
+    },
+    {
+        "name": "Background_without_leaves",
+        "cause": "কোনো উদ্ভিদ বা রোগ শনাক্ত হয়নি।",
+        "cure": "প্রযোজ্য নয়।"
+    },
+    {
+        "name": "Blueberry___healthy",
+        "cause": "কোনো রোগ নেই।",
+        "cure": "গাছের স্বাস্থ্য ভালো রাখতে ভালো চাষাবাদের পদ্ধতি অনুসরণ করুন।"
+    },
+    {
+        "name": "Cherry___Powdery_mildew",
+        "cause": "ছত্রাক Podosphaera clandestina দ্বারা সৃষ্ট।",
+        "cure": "গন্ধক-ভিত্তিক বা ছত্রাকনাশক প্রয়োগ করুন। ভালো বায়ু চলাচল নিশ্চিত করুন।"
+    },
+    {
+        "name": "Cherry___healthy",
+        "cause": "কোনো রোগ নেই।",
+        "cure": "গাছের স্বাস্থ্য ভালো রাখতে ভালো চাষাবাদের পদ্ধতি অনুসরণ করুন।"
+    },
+    {
+        "name": "Corn___Cercospora_leaf_spot Gray_leaf_spot",
+        "cause": "ছত্রাক Cercospora zeae-maydis দ্বারা সৃষ্ট।",
+        "cure": "প্রতিরোধী জাত ব্যবহার করুন এবং ছত্রাকনাশক স্প্রে করুন।"
+    },
+    {
+        "name": "Corn___Common_rust",
+        "cause": "ছত্রাক Puccinia sorghi দ্বারা সৃষ্ট।",
+        "cure": "ছত্রাকনাশক প্রয়োগ করুন এবং প্রতিরোধী জাত ব্যবহার করুন।"
+    },
+    {
+        "name": "Corn___Northern_Leaf_Blight",
+        "cause": "ছত্রাক Exserohilum turcicum দ্বারা সৃষ্ট।",
+        "cure": "প্রতিরোধী জাত ও ছত্রাকনাশক ব্যবহার করুন।"
+    },
+    {
+        "name": "Corn___healthy",
+        "cause": "কোনো রোগ নেই।",
+        "cure": "গাছের স্বাস্থ্য ভালো রাখতে ভালো চাষাবাদের পদ্ধতি অনুসরণ করুন।"
+    },
+    {
+        "name": "Grape___Black_rot",
+        "cause": "ছত্রাক Guignardia bidwellii দ্বারা সৃষ্ট।",
+        "cure": "আক্রান্ত অংশ ছেঁটে ফেলুন এবং ছত্রাকনাশক প্রয়োগ করুন।"
+    },
+    {
+        "name": "Grape___Esca_(Black_Measles)",
+        "cause": "ছত্রাক Phaeomoniella chlamydospora সহ একাধিক ছত্রাক দ্বারা সৃষ্ট।",
+        "cure": "আক্রান্ত কাঠ অপসারণ করুন। গাছে আঘাত এড়িয়ে চলুন।"
+    },
+    {
+        "name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+        "cause": "ছত্রাক Pseudocercospora vitis দ্বারা সৃষ্ট।",
+        "cure": "ছত্রাকনাশক প্রয়োগ করুন এবং আঙুর ক্ষেত পরিষ্কার রাখুন।"
+    },
+    {
+        "name": "Grape___healthy",
+        "cause": "কোনো রোগ নেই।",
+        "cure": "গাছের স্বাস্থ্য ভালো রাখতে ভালো চাষাবাদের পদ্ধতি অনুসরণ করুন।"
+    },
+    {
+        "name": "Orange___Haunglongbing_(Citrus_greening)",
+        "cause": "ব্যাকটেরিয়া Candidatus Liberibacter spp. সাইক্লিড নামক পোকা দ্বারা ছড়ায়।",
+        "cure": "সাইক্লিড পোকার সংখ্যা নিয়ন্ত্রণ করুন এবং আক্রান্ত গাছগুলো সরিয়ে ফেলুন।"
+    },
+    {
+        "name": "Peach___Bacterial_spot",
+        "cause": "ব্যাকটেরিয়া Xanthomonas campestris pv. pruni দ্বারা সৃষ্ট।",
+        "cure": "প্রতিরোধী জাত এবং তামা-ভিত্তিক ব্যাকটেরিনাশক ব্যবহার করুন।"
+    },
+    {
+        "name": "Peach___healthy",
+        "cause": "কোনো রোগ নেই।",
+        "cure": "গাছের স্বাস্থ্য ভালো রাখতে ভালো চাষাবাদের পদ্ধতি অনুসরণ করুন।"
+    },
+    {
+        "name": "Pepper,_bell___Bacterial_spot",
+        "cause": "ব্যাকটেরিয়া Xanthomonas campestris pv. vesicatoria দ্বারা সৃষ্ট।",
+        "cure": "তামা-ভিত্তিক ব্যাকটেরিনাশক এবং প্রতিরোধী জাত ব্যবহার করুন।"
+    },
+    {
+        "name": "Pepper,_bell___healthy",
+        "cause": "কোনো রোগ নেই।",
+        "cure": "গাছের স্বাস্থ্য ভালো রাখতে ভালো চাষাবাদের পদ্ধতি অনুসরণ করুন।"
+    },
+    {
+        "name": "Potato___Early_blight",
+        "cause": "ছত্রাক Alternaria solani দ্বারা সৃষ্ট।",
+        "cure": "ছত্রাকনাশক প্রয়োগ করুন এবং ফসল পর্যায়ক্রমে পরিবর্তন করুন।"
+    },
+    {
+        "name": "Potato___Late_blight",
+        "cause": "রোগজীবাণু Phytophthora infestans দ্বারা সৃষ্ট।",
+        "cure": "প্রতিরোধী জাত এবং ছত্রাকনাশক ব্যবহার করুন।"
+    },
+    {
+        "name": "Potato___healthy",
+        "cause": "কোনো রোগ নেই।",
+        "cure": "গাছের স্বাস্থ্য ভালো রাখতে ভালো চাষাবাদের পদ্ধতি অনুসরণ করুন।"
+    },
+    {
+        "name": "Raspberry___healthy",
+        "cause": "কোনো রোগ নেই।",
+        "cure": "গাছের স্বাস্থ্য ভালো রাখতে ভালো চাষাবাদের পদ্ধতি অনুসরণ করুন।"
+    },
+    {
+        "name": "Soybean___healthy",
+        "cause": "কোনো রোগ নেই।",
+        "cure": "গাছের স্বাস্থ্য ভালো রাখতে ভালো চাষাবাদের পদ্ধতি অনুসরণ করুন।"
+    },
+    {
+        "name": "Squash___Powdery_mildew",
+        "cause": "ছত্রাক Erysiphe cichoracearum সহ অন্যান্য দ্বারা সৃষ্ট।",
+        "cure": "গন্ধক-ভিত্তিক ছত্রাকনাশক প্রয়োগ করুন এবং ভালো বায়ু চলাচল বজায় রাখুন।"
+    },
+    {
+        "name": "Strawberry___Leaf_scorch",
+        "cause": "ছত্রাক Diplocarpon earlianum দ্বারা সৃষ্ট।",
+        "cure": "আক্রান্ত পাতা সরিয়ে ফেলুন এবং ছত্রাকনাশক ব্যবহার করুন।"
+    },
+    {
+        "name": "Strawberry___healthy",
+        "cause": "কোনো রোগ নেই।",
+        "cure": "গাছের স্বাস্থ্য ভালো রাখতে ভালো চাষাবাদের পদ্ধতি অনুসরণ করুন।"
+    },
+    {
+        "name": "Tomato___Bacterial_spot",
+        "cause": "ব্যাকটেরিয়া Xanthomonas spp. দ্বারা সৃষ্ট।",
+        "cure": "তামা-ভিত্তিক ব্যাকটেরিনাশক ব্যবহার করুন এবং ফসল পর্যায়ক্রমে পরিবর্তন করুন।"
+    },
+    {
+        "name": "Tomato___Early_blight",
+        "cause": "ছত্রাক Alternaria solani দ্বারা সৃষ্ট।",
+        "cure": "ছত্রাকনাশক প্রয়োগ করুন এবং আক্রান্ত পাতা সরিয়ে ফেলুন।"
+    },
+    {
+        "name": "Tomato___Late_blight",
+        "cause": "রোগজীবাণু Phytophthora infestans দ্বারা সৃষ্ট।",
+        "cure": "প্রতিরোধী জাত এবং ছত্রাকনাশক ব্যবহার করুন।"
+    },
+    {
+        "name": "Tomato___Leaf_Mold",
+        "cause": "ছত্রাক Passalora fulva দ্বারা সৃষ্ট।",
+        "cure": "ছত্রাকনাশক প্রয়োগ করুন এবং ভালো বায়ু চলাচল নিশ্চিত করুন।"
+    },
+    {
+        "name": "Tomato___Septoria_leaf_spot",
+        "cause": "ছত্রাক Septoria lycopersici দ্বারা সৃষ্ট।",
+        "cure": "আক্রান্ত পাতা সরিয়ে ফেলুন এবং ছত্রাকনাশক প্রয়োগ করুন।"
+    },
+    {
+        "name": "Tomato___Spider_mites Two-spotted_spider_mite",
+        "cause": "স্পাইডার মাইট Tetranychus urticae দ্বারা সৃষ্ট।",
+        "cure": "মাইটনাশক বা কীটনাশক সাবান ব্যবহার করুন।"
+    },
+    {
+        "name": "Tomato___Target_Spot",
+        "cause": "ছত্রাক Corynespora cassiicola দ্বারা সৃষ্ট।",
+        "cure": "ছত্রাকনাশক ব্যবহার করুন এবং ভালো বায়ু চলাচল বজায় রাখুন।"
+    },
+    {
+        "name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+        "cause": "হোয়াইটফ্লাই দ্বারা ছড়ানো ভাইরাস।",
+        "cure": "হোয়াইটফ্লাই নিয়ন্ত্রণ করুন এবং প্রতিরোধী জাত ব্যবহার করুন।"
+    },
+    {
+        "name": "Tomato___Tomato_mosaic_virus",
+        "cause": "সংস্পর্শ ও দূষিত যন্ত্রপাতির মাধ্যমে ছড়ানো ভাইরাস।",
+        "cure": "আক্রান্ত গাছ সরিয়ে ফেলুন এবং যন্ত্রপাতি জীবাণুমুক্ত করুন।"
+    },
+    {
+        "name": "Tomato___healthy",
+        "cause": "কোনো রোগ নেই।",
+        "cure": "গাছের স্বাস্থ্য ভালো রাখতে ভালো চাষাবাদের পদ্ধতি অনুসরণ করুন।"
+    }
+]
